@@ -1,5 +1,4 @@
-# Iris_Dataset
-Exploratory Data Analysis of Iris Dataset
+# Exploratory Data Analysis of Iris Dataset
 
 Description:
 
